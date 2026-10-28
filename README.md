@@ -24,6 +24,7 @@ Estructura:
 - modelos/ ==== modelos que va a leer el programa
 
 ### Compilacion del proyecto
+
 $ cd Proyecto
 $ mkdir -p build
 $ cd build
@@ -37,7 +38,6 @@ $ ./build/visualizador
 
 ## Salida de la terminal
 
-======================================================
  COntroles:
   [Flechas lados] : cambiar de modelo
   [1 - 3]             : 1=puntos, 2=lineas, 3=superficie
@@ -47,7 +47,6 @@ $ ./build/visualizador
   [rueda raton]       : Zoom
   [r]                     : reiniciar
   [esc]                   : salir
-======================================================
  Modelo: [1/2]: bunny.obj
  Vertices: 34817
  Minimo: (-1.8938, -0.340252, -1.23747)
