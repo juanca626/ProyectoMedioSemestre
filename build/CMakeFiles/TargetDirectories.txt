@@ -1,0 +1,3 @@
+/home/juca/Documentos/Visual/Proyecto/build/CMakeFiles/visualizador.dir
+/home/juca/Documentos/Visual/Proyecto/build/CMakeFiles/edit_cache.dir
+/home/juca/Documentos/Visual/Proyecto/build/CMakeFiles/rebuild_cache.dir
